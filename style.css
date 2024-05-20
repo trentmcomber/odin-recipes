@@ -1,0 +1,23 @@
+h1 {
+    font-weight: bold;
+    background-color: rgba(22, 22, 249, 0.767);
+
+}
+
+h3, h5{
+    font-style: italic;
+    font-size: 14x;
+
+}
+
+ul {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+
+}
+
+ol {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(240, 115, 19, 0.793);
+
+}
